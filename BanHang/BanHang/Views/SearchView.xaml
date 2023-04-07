@@ -34,7 +34,7 @@
                     <Image Source="cart.png" Grid.Column="3" Aspect="AspectFit" HeightRequest="27" WidthRequest="27" VerticalOptions="Center" HorizontalOptions="Start"/>
                 </Grid>
                 <Frame HasShadow="True" IsClippedToBounds="True" Grid.Row="1" Margin="0,15,0,15" HeightRequest="60" CornerRadius="30" Padding="0">
-                    <controls:CustomEntry Placeholder="Search" BorderColor="White" BackgroundColor="White" FontFamily="{StaticResource Avo}" FontSize="15" TextColor="{StaticResource TextColor}" HeightRequest="60" Image="search" ImageWidth="15" ImageHeight="15" CornerRadius="30" IsCurvedCornersEnabled="True"/>
+                    <controls:CustomEntry Placeholder="Tìm kiếm" BorderColor="White" BackgroundColor="White" FontFamily="{StaticResource Avo}" FontSize="15" TextColor="{StaticResource TextColor}" HeightRequest="60" Image="search" ImageWidth="15" ImageHeight="15" CornerRadius="30" IsCurvedCornersEnabled="True"/>
                 </Frame>
                 <ScrollView Grid.Row="2" VerticalScrollBarVisibility="Never" HorizontalScrollBarVisibility="Never" Padding="0" Orientation="Horizontal" Margin="0,15,0,15" HeightRequest="60">
                     <StackLayout Orientation="Horizontal" HeightRequest="60">
@@ -68,29 +68,8 @@
                                 <Label Text="Coffees " VerticalTextAlignment="Center" TextColor="Black" Style="{StaticResource LabelDefaultStyle}"/>
                             </StackLayout>
                         </Frame>
-                        <Frame HeightRequest="60" CornerRadius="30" HasShadow="True" Margin="0,0,15,0" IsClippedToBounds="True" BackgroundColor="White" HorizontalOptions="Start" Padding="0,0,5,0">
-                            <StackLayout Orientation="Horizontal" >
-                                <Frame HeightRequest="60" WidthRequest="60" CornerRadius="25" Padding="0" HasShadow="False" BackgroundColor="{StaticResource AccentColor}">
-                                    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
-                                        <Image Source="https://i.dlpng.com/static/png/6977845_preview.png" VerticalOptions="Center" HeightRequest="30" WidthRequest="30" Aspect="AspectFit"/>
-                                    </StackLayout>
-                                </Frame>
-                                <Label Text="Beers " VerticalTextAlignment="Center" TextColor="Black" Style="{StaticResource LabelDefaultStyle}"/>
-                            </StackLayout>
-                        </Frame>
-                        <Frame HeightRequest="60" CornerRadius="30" HasShadow="True" Margin="0,0,15,0" IsClippedToBounds="True" BackgroundColor="White" HorizontalOptions="Start" Padding="0,0,5,0">
-                            <StackLayout Orientation="Horizontal" >
-                                <Frame HeightRequest="60" WidthRequest="60" CornerRadius="25" Padding="0" HasShadow="False" BackgroundColor="{StaticResource AccentColor}">
-                                    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
-                                        <Image Source="https://i.dlpng.com/static/png/6977845_preview.png" VerticalOptions="Center" HeightRequest="30" WidthRequest="30" Aspect="AspectFit"/>
-                                    </StackLayout>
-                                </Frame>
-                                <Label Text="Beers " VerticalTextAlignment="Center" TextColor="Black" Style="{StaticResource LabelDefaultStyle}"/>
-                            </StackLayout>
-                        </Frame>
                     </StackLayout>
                 </ScrollView>
-                <Label Grid.Row="3" Margin="0,15,0,15" Style="{StaticResource LabelWellcomeStyle}" Text="240 Result"/>
                 <ScrollView Grid.Row="4">
                     <StackLayout>
                         <Grid ColumnSpacing="15"  Margin="0,15,0,0"  VerticalOptions="Start">
@@ -106,12 +85,11 @@
                                     <Frame Padding="0" HasShadow="False" CornerRadius="5" IsClippedToBounds="True">
                                         <Image Source="https://bizweb.dktcdn.net/thumb/grande/100/363/802/products/8847100565389-500x500.jpg"/>
                                     </Frame>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}"/>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}" FontSize="11" TextColor="Gray"/>
+                                    <Label Margin="5,0,5,0" Text="Cocacola" Style="{StaticResource LabelTitleStyle}"/>
+                                    <Label Margin="5,0,5,0" Text="Cocacola" Style="{StaticResource LabelTitleStyle}" FontSize="11" TextColor="Gray"/>
                                     <BoxView HorizontalOptions="FillAndExpand" HeightRequest="2" BackgroundColor="{StaticResource BgColor}"/>
                                     <StackLayout Margin="5,0,5,0" Orientation="Horizontal">
-                                        <Label Text="30.000 đ" VerticalTextAlignment="Center" Style="{StaticResource LabelTitleStyle}" HorizontalOptions="Start"/>
-                                        <Label Text="(Kg)" VerticalOptions="Center" Style="{StaticResource LabelWellcomeStyle}" HorizontalOptions="StartAndExpand"/>
+                                        <Label Text="15.000 đ/lon" VerticalTextAlignment="Center" Style="{StaticResource LabelTitleStyle}" HorizontalOptions="Start"/>
                                         <Image Source="plus" WidthRequest="50" HeightRequest="50" HorizontalOptions="End"/>
                                     </StackLayout>
                                 </StackLayout>
@@ -121,12 +99,11 @@
                                     <Frame Padding="0" HasShadow="False" CornerRadius="5" IsClippedToBounds="True">
                                         <Image Source="https://product.hstatic.net/1000169747/product/nuoc_giai_khat_huong_cam_fanta_chai_1_5lit-500x500_grande.jpg"/>
                                     </Frame>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}"/>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}" FontSize="11" TextColor="Gray"/>
+                                    <Label Margin="5,0,5,0" Text="Panta" Style="{StaticResource LabelTitleStyle}"/>
+                                    <Label Margin="5,0,5,0" Text="Panta" Style="{StaticResource LabelTitleStyle}" FontSize="11" TextColor="Gray"/>
                                     <BoxView HorizontalOptions="FillAndExpand" HeightRequest="2" BackgroundColor="{StaticResource BgColor}"/>
                                     <StackLayout Margin="5,0,5,0" Orientation="Horizontal">
-                                        <Label Text="30.000 đ" VerticalTextAlignment="Center" Style="{StaticResource LabelTitleStyle}" HorizontalOptions="Start"/>
-                                        <Label Text="(Kg)" VerticalOptions="Center" Style="{StaticResource LabelWellcomeStyle}" HorizontalOptions="StartAndExpand"/>
+                                        <Label Text="20.000 đ/chai" VerticalTextAlignment="Center" Style="{StaticResource LabelTitleStyle}" HorizontalOptions="Start"/>
                                         <Image Source="plus" WidthRequest="50" HeightRequest="50" HorizontalOptions="End"/>
                                     </StackLayout>
                                 </StackLayout>
@@ -143,14 +120,13 @@
                             <Frame CornerRadius="5" Grid.Column="0" HasShadow="True" Padding="0" IsClippedToBounds="True">
                                 <StackLayout Orientation="Vertical" Margin="0,10,10,10">
                                     <Frame Padding="0" HasShadow="False" CornerRadius="5" IsClippedToBounds="True">
-                                        <Image Source="https://thptnguyenthaibinh.canteen.vn/image/cache/catalog/san-pham/nuoc-ngot-chai/coca/nuoc-ngot-coca-chai-500x500.jpg"/>
+                                        <Image Source="https://vietro.com.vn/uploads/product/lg-nuoc-bo-huc-lon-250ml-1643171685.jpg"/>
                                     </Frame>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}"/>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}" FontSize="11" TextColor="Gray"/>
+                                    <Label Margin="5,0,5,0" Text="Bò Húc" Style="{StaticResource LabelTitleStyle}"/>
+                                    <Label Margin="5,0,5,0" Text="Bò húc" Style="{StaticResource LabelTitleStyle}" FontSize="11" TextColor="Gray"/>
                                     <BoxView HorizontalOptions="FillAndExpand" HeightRequest="2" BackgroundColor="{StaticResource BgColor}"/>
                                     <StackLayout Margin="5,0,5,0" Orientation="Horizontal">
-                                        <Label Text="30.000 đ" VerticalTextAlignment="Center" Style="{StaticResource LabelTitleStyle}" HorizontalOptions="Start"/>
-                                        <Label Text="(Kg)" VerticalOptions="Center" Style="{StaticResource LabelWellcomeStyle}" HorizontalOptions="StartAndExpand"/>
+                                        <Label Text="20.000 đ/lon" VerticalTextAlignment="Center" Style="{StaticResource LabelTitleStyle}" HorizontalOptions="Start"/>
                                         <Image Source="plus" WidthRequest="50" HeightRequest="50" HorizontalOptions="End"/>
                                     </StackLayout>
                                 </StackLayout>
@@ -158,53 +134,13 @@
                             <Frame CornerRadius="5" HasShadow="True" Grid.Column="1" Padding="0" IsClippedToBounds="True">
                                 <StackLayout Orientation="Vertical" Margin="0,10,10,10">
                                     <Frame Padding="0" HasShadow="False" CornerRadius="5" IsClippedToBounds="True">
-                                        <Image Source="https://thptnguyenthaibinh.canteen.vn/image/cache/catalog/san-pham/nuoc-ngot-chai/coca/coca-sprite-chai-500x500.jpg"/>
+                                        <Image Source="https://minhcaumart.vn/media/com_eshop/products/8935049007302.jpg"/>
                                     </Frame>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}"/>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}" FontSize="11" TextColor="Gray"/>
+                                    <Label Margin="5,0,5,0" Text="nutifood" Style="{StaticResource LabelTitleStyle}"/>
+                                    <Label Margin="5,0,5,0" Text="nutifood" Style="{StaticResource LabelTitleStyle}" FontSize="11" TextColor="Gray"/>
                                     <BoxView HorizontalOptions="FillAndExpand" HeightRequest="2" BackgroundColor="{StaticResource BgColor}"/>
                                     <StackLayout Margin="5,0,5,0" Orientation="Horizontal">
-                                        <Label Text="30.000 đ" VerticalTextAlignment="Center" Style="{StaticResource LabelTitleStyle}" HorizontalOptions="Start"/>
-                                        <Label Text="(Kg)" VerticalOptions="Center" Style="{StaticResource LabelWellcomeStyle}" HorizontalOptions="StartAndExpand"/>
-                                        <Image Source="plus" WidthRequest="50" HeightRequest="50" HorizontalOptions="End"/>
-                                    </StackLayout>
-                                </StackLayout>
-                            </Frame>
-                        </Grid>
-                        <Grid ColumnSpacing="15" Margin="0,15,0,0" VerticalOptions="Start">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="*"/>
-                            </Grid.ColumnDefinitions>
-                            <Grid.RowDefinitions>
-                                <RowDefinition Height="400"/>
-                            </Grid.RowDefinitions>
-                            <Frame CornerRadius="5" Grid.Column="0" HasShadow="True" Padding="0" IsClippedToBounds="True">
-                                <StackLayout Orientation="Vertical" Margin="0,10,10,10">
-                                    <Frame Padding="0" HasShadow="False" CornerRadius="5" IsClippedToBounds="True">
-                                        <Image Source="https://thptnguyenthaibinh.canteen.vn/image/cache/catalog/san-pham/nuoc-ngot-chai/coca/nuoc-uong-sua-trai-cay-nutri-boost-huong-cam-chai-500x500.jpg"/>
-                                    </Frame>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}"/>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}" FontSize="11" TextColor="Gray"/>
-                                    <BoxView HorizontalOptions="FillAndExpand" HeightRequest="2" BackgroundColor="{StaticResource BgColor}"/>
-                                    <StackLayout Margin="5,0,5,0" Orientation="Horizontal">
-                                        <Label Text="30.000 đ" VerticalTextAlignment="Center" Style="{StaticResource LabelTitleStyle}" HorizontalOptions="Start"/>
-                                        <Label Text="(Kg)" VerticalOptions="Center" Style="{StaticResource LabelWellcomeStyle}" HorizontalOptions="StartAndExpand"/>
-                                        <Image Source="plus" WidthRequest="50" HeightRequest="50" HorizontalOptions="End"/>
-                                    </StackLayout>
-                                </StackLayout>
-                            </Frame>
-                            <Frame CornerRadius="5" HasShadow="True" Grid.Column="1" Padding="0" IsClippedToBounds="True">
-                                <StackLayout Orientation="Vertical" Margin="0,10,10,10">
-                                    <Frame Padding="0" HasShadow="False" CornerRadius="5" IsClippedToBounds="True">
-                                        <Image Source="https://salt.tikicdn.com/cache/500x500/ts/product/76/b3/a2/4498886a63e56c3f01148f4f4af0bf1b.jpg"/>
-                                    </Frame>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}"/>
-                                    <Label Margin="5,0,5,0" Text="Pasta food" Style="{StaticResource LabelTitleStyle}" FontSize="11" TextColor="Gray"/>
-                                    <BoxView HorizontalOptions="FillAndExpand" HeightRequest="2" BackgroundColor="{StaticResource BgColor}"/>
-                                    <StackLayout Margin="5,0,5,0" Orientation="Horizontal">
-                                        <Label Text="30.000 đ" VerticalTextAlignment="Center" Style="{StaticResource LabelTitleStyle}" HorizontalOptions="Start"/>
-                                        <Label Text="(Kg)" VerticalOptions="Center" Style="{StaticResource LabelWellcomeStyle}" HorizontalOptions="StartAndExpand"/>
+                                        <Label Text="15.000 đ/chai" VerticalTextAlignment="Center" Style="{StaticResource LabelTitleStyle}" HorizontalOptions="Start"/>
                                         <Image Source="plus" WidthRequest="50" HeightRequest="50" HorizontalOptions="End"/>
                                     </StackLayout>
                                 </StackLayout>

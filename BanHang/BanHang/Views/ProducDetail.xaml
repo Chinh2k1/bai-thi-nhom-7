@@ -24,4 +24,43 @@
             <Image Source="https://haycafe.vn/wp-content/uploads/2022/03/anh-do-an-800x534.jpg" Aspect="AspectFill" HeightRequest="225" HorizontalOptions="FillAndExpand" Grid.Row="1"/>
         </Grid>
     </ContentPage.Content>
+</ContentPage><?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BanHang.Views.ProducDetail">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" Margin="20,0,20,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="30"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="30"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="back.png" Grid.Column="0" Aspect="AspectFit" HeightRequest="27" WidthRequest="27" VerticalOptions="Center" HorizontalOptions="Start"/>
+                <Label Style="{StaticResource LabelTitleStyle}" Grid.Column="1" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" Text="Bún bò Huế"/>
+                <Image Source="cart.png" Grid.Column="2" Aspect="AspectFit" HeightRequest="27" WidthRequest="27" VerticalOptions="Center" HorizontalOptions="Start"/>
+            </Grid>
+            <Image Source="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/07/anh-2.png" Aspect="AspectFill" HeightRequest="225" HorizontalOptions="FillAndExpand" Grid.Row="1"/>
+            <StackLayout Grid.Row="2">
+                <Label Text="Bún bò Huế" Style="{StaticResource LabelWellcomeStyle}" HorizontalTextAlignment="Center"/>
+                <Label Text="một đặc sản của ẩm thực Huế" Style="{StaticResource LabelTitleStyle}" TextColor="Gray" HorizontalTextAlignment="Center"/>
+                <Label Text="30.000đ/Tô" Style="{StaticResource LabelTitleStyle}"  HorizontalTextAlignment="Center"/>
+            </StackLayout>
+            <StackLayout Grid.Row="4" >
+                <StackLayout  Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                    <Image Source="minus.png" WidthRequest="30" HeightRequest="30" HorizontalOptions="Start"/>
+                    <Label Text="1" Style="{StaticResource LabelWellcomeStyle}" HorizontalOptions="Center"/>
+                    <Image Source="plus.png" WidthRequest="30" HeightRequest="30" HorizontalOptions="End"/>
+                </StackLayout>
+                <Button BackgroundColor="{StaticResource MainColor}" CornerRadius="25" FontFamily="{StaticResource Avo}" FontSize="17" HeightRequest="50" WidthRequest="200" Text="Thêm vào giỏ hàng" TextColor="White" HorizontalOptions="Center"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
 </ContentPage>
