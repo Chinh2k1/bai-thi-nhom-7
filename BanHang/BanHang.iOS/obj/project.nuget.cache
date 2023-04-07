@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Heblioj+LUewN8nDwqGgcdN+K5aiYA3D8F+zutSsZPyVTKDX/hVG7VKu7oOJNQRh0+J5jV+6SdbLYevXpOXhsg==",
+  "success": true,
+  "projectFilePath": "D:\\bài thi .net\\BanHang\\BanHang\\BanHang.iOS\\BanHang.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

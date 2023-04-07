@@ -1,0 +1,63 @@
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\bin\Debug\netstandard2.0\BanHang.deps.json
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\bin\Debug\netstandard2.0\BanHang.dll
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\bin\Debug\netstandard2.0\ref\BanHang.dll
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\bin\Debug\netstandard2.0\BanHang.pdb
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.csproj.AssemblyReference.cache
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.AssemblyInfoInputs.cache
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.AssemblyInfo.cs
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.csproj.CoreCompileInputs.cache
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\XamlC.stamp
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.dll
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\ref\BanHang.dll
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.pdb
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\PersonalView.xaml.g.cs
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\ProductView.xaml.g.cs
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\SearchView.xaml.g.cs
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\CartView.xaml.g.cs
+D:\truonghoc\mr.hung\baithi\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\ProducDetail.xaml.g.cs
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.dll
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.pdb
+D:\.net\BanHang\BanHang\BanHang\bin\Debug\netstandard2.0\BanHang.deps.json
+D:\.net\BanHang\BanHang\BanHang\bin\Debug\netstandard2.0\BanHang.dll
+D:\.net\BanHang\BanHang\BanHang\bin\Debug\netstandard2.0\BanHang.pdb
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.csproj.AssemblyReference.cache
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\CartView.xaml.g.cs
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\PersonalView.xaml.g.cs
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\ProducDetail.xaml.g.cs
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\ProductView.xaml.g.cs
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\SearchView.xaml.g.cs
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.AssemblyInfoInputs.cache
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.AssemblyInfo.cs
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.csproj.CoreCompileInputs.cache
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\XamlC.stamp
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\refint\BanHang.dll
+D:\.net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\ref\BanHang.dll
+D:\bài thi .net\BanHang\BanHang\BanHang\bin\Debug\netstandard2.0\BanHang.deps.json
+D:\bài thi .net\BanHang\BanHang\BanHang\bin\Debug\netstandard2.0\BanHang.dll
+D:\bài thi .net\BanHang\BanHang\BanHang\bin\Debug\netstandard2.0\BanHang.pdb
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.csproj.AssemblyReference.cache
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\CartView.xaml.g.cs
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\HomeView.xaml.g.cs
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\PersonalView.xaml.g.cs
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\ProducDetail.xaml.g.cs
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\ProductView.xaml.g.cs
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\Views\SearchView.xaml.g.cs
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.AssemblyInfoInputs.cache
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.AssemblyInfo.cs
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.csproj.CoreCompileInputs.cache
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\XamlC.stamp
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.dll
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\refint\BanHang.dll
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\BanHang.pdb
+D:\bài thi .net\BanHang\BanHang\BanHang\obj\Debug\netstandard2.0\ref\BanHang.dll

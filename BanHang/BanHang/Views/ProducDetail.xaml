@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BanHang.Views.ProducDetail">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="30"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="30"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="back.png" Grid.Column="0" Aspect="AspectFit" HeightRequest="27" WidthRequest="27" VerticalOptions="Center" HorizontalOptions="Start"/>
+                <Label Style="{StaticResource LabelTitleStyle}" Grid.Column="1" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" Text="Search"/>
+                <Image Source="cart.png" Grid.Column="3" Aspect="AspectFit" HeightRequest="27" WidthRequest="27" VerticalOptions="Center" HorizontalOptions="Start"/>
+            </Grid>
+            <Image Source="https://haycafe.vn/wp-content/uploads/2022/03/anh-do-an-800x534.jpg" Aspect="AspectFill" HeightRequest="225" HorizontalOptions="FillAndExpand" Grid.Row="1"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
